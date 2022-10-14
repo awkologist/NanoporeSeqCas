@@ -3,4 +3,4 @@ Hier finden Sie die im Rahmen der Fortbildung präsentierten Folien und die jewe
 
 ![Das Team](Bilder/nanoporeseqcas-team.png)
 
-Scheuen Sie sich nicht sich bei Fragen an das Team zu wenden.
+Scheuen Sie sich nicht, sich bei Fragen an das Team zu wenden.
