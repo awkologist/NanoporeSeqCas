@@ -1,2 +1,2 @@
-# NanoporeSeqCas
-Für ambitionierte Lehrer und Interessierte: Erweiterte und aktualisierte Informationen zur Sequenzanalyse nach der Sequenzierung mit dem Oxford Nanopore MinION-Gerät.
+# Lehrerfortbildung
+Hier finden Sie die im Rahmen der Fortbildung präsentierten Folien und die jeweils aktuellste Version der Anleitung für die Datenanalyse.
